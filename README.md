@@ -52,5 +52,7 @@ OBS: é necessário ter o [Node.js](https://nodejs.org/en/) e o [npm](https://ww
 ## Autor
 ---
 Bruno Lemos Coutinho
+
 <img src="https://avatars.githubusercontent.com/u/19177136?v=4" width="100">
+
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolemoscoutinho/)](https://www.linkedin.com/in/brunolemoscoutinho/) [![Gmail Badge](https://img.shields.io/badge/-brunolemos.ssa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunolemos.ssa@gmail.com)](mailto:brunolemos.ssa@gmail.com)
