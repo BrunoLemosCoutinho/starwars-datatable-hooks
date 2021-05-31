@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: 650;
+  padding: 1.5em;
+}
