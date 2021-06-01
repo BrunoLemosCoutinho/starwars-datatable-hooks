@@ -1,24 +1,23 @@
 # STAR WARS DATATABLE HOOKS FILTERS
----
 
 ![](https://img.shields.io/badge/Status-Concluído-<COLOR>)
 
 ## Descrição
----
+
 Esse projeto faz parte do curso da [Trybe](https://www.betrybe.com), mais detalhes sobre os requisitos [aqui](https://github.com/tryber/sd-06-project-starwars-datatable-hooks).
 
 
 O objetivo deste projeto foi, através de uma consulta à API https://swapi.dev, desenvolver uma lista com filtros de planetas  do universo Star Wars, utilizando __Context API__ e __Hooks__ para controlar os estados globais.
 
 ## Tecnologias Utilizadas
----
+
 * [React](https://reactjs.org)
 * React Context API
 * React Hooks useState, useContext e useEffect
 * CSS Bootstrap
 
 ## Como executar o projeto
----
+
 OBS: é necessário ter o [Node.js](https://nodejs.org/en/) e o [npm](https://www.npmjs.com) instalados na máquina
 
 1. Clone o repositório.
@@ -36,7 +35,7 @@ OBS: é necessário ter o [Node.js](https://nodejs.org/en/) e o [npm](https://ww
 
 
 ## Features
----
+
 - [x] Requisição para o endpoint /planets da API de Star Wars.
 - [x] Preenche tabela com os dados retornados pela API.
 - [x] Filtra a tabela por campo de texto.
@@ -46,11 +45,11 @@ OBS: é necessário ter o [Node.js](https://nodejs.org/en/) e o [npm](https://ww
 - [x] Ordenas as colunas de forma ascendente ou descendente.
 
 ## Demonstração da aplicação
----
-⏳ Em breve ⏳
+
+Aplicação rodando [aqui](https://brunolemoscoutinho.github.io/starwars-datatable-hooks/)
 
 ## Autor
----
+
 Bruno Lemos Coutinho
 
 <img src="https://avatars.githubusercontent.com/u/19177136?v=4" width="100">
