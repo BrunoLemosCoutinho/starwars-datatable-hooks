@@ -1,5 +1,5 @@
 const apiInfo = {
-  api: 'https://swapi-trybe.herokuapp.com/api/',
+  api: 'https://swapi.dev/api/',
   endpoint: 'planets',
 };
 

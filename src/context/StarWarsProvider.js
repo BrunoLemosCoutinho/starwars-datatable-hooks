@@ -167,7 +167,7 @@ export default StarWarsProvider;
 
 /*
   // IN CASE OF API FAILURE
-  // Remova depois que a API retornar
+  // Mocked info to keep development
   const getMockedPlanetsInfo = async () => {
     const planetsInfo = mockFetchPlanetsInfo();
     const planetsWithoutResidentsKey = planetsInfo.map((planet) => (
@@ -176,7 +176,6 @@ export default StarWarsProvider;
     return planetsWithoutResidentsKey;
   };
 
-  // Remova depois que a API retornar
   const mockedInitialSetup = async () => {
     console.log('Retrieving  MOCKED API info');
     const planetsInfo = await getMockedPlanetsInfo();
