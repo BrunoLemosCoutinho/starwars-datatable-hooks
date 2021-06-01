@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/starwars-datatable-hooks/precache-manifest.fa300dbc0717190e7648aa3adfca6abd.js"
+  "/starwars-datatable-hooks/precache-manifest.0cfbc7bb2f95e0ed2fcb8630e73a6afe.js"
 );
 
 self.addEventListener('message', (event) => {
