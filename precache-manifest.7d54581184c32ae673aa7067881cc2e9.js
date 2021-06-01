@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08004f277f9d0375e1aefef8723c38f0",
+    "revision": "50fa5862553dd2e54da684cdb1644a19",
     "url": "/starwars-datatable-hooks/index.html"
   },
   {
-    "revision": "f8a9fef99b5abec1ec9e",
+    "revision": "561f02ce32ff2baa464a",
     "url": "/starwars-datatable-hooks/static/css/main.f7908ad9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwars-datatable-hooks/static/js/2.d4b8211a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8a9fef99b5abec1ec9e",
-    "url": "/starwars-datatable-hooks/static/js/main.063c3f02.chunk.js"
+    "revision": "561f02ce32ff2baa464a",
+    "url": "/starwars-datatable-hooks/static/js/main.a7bf4f56.chunk.js"
   },
   {
     "revision": "0078f54fea95fa1ab8c2",
