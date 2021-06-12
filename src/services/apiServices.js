@@ -1,6 +1,6 @@
 const apiInfo = {
   api: 'https://swapi.dev/api/',
-  endpoint: 'planets',
+  endpoint: 'planets/',
 };
 
 const url = `${apiInfo.api}${apiInfo.endpoint}`;
