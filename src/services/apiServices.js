@@ -1,5 +1,5 @@
 const apiInfo = {
-  api: 'https://swapi.dev/api/',
+  api: 'http://swapi.dev/api/',
   endpoint: 'planets',
 };
 
